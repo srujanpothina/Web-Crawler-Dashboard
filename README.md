@@ -9,6 +9,9 @@ Steps to be followed :
 5. Connect the sql servers data to tableau workbook. 
 
 <a href="https://public.tableau.com/profile/srujan.pothina#!/vizhome/workbook_39/Dashboard1">This</a> is the link for tableau dashboard hosted using tableau public.<br><br>
+
+<a href="https://prezi.com/p/1bclk2oq0zaw/"> This</a> is the presentation of demo.
+<br>
 Below is the example HR dashboard :
 
 <html>
